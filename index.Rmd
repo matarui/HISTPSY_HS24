@@ -24,19 +24,19 @@ Sessions take place Mondays, 8.15-9.45, Chemie, Organische, Grosser Hörsaal OC.
 ::: l-body
 | # | Date     | Topic                         | Instructor | Slides |
 |---| ---------|-------------------------------|--------| --------|
-| 1 | 23.09.2024 | [Session 1: Introduction](session1.html) | Tisdall | |
-| 2 | 30.09.2024 | [Session 2: Pre-psychology](session2.html) | Mata | |
-| 3 | 7.10.2024 | [Session 3: The birth of psychology](session3.html) | Mata | |
-| 4 | 14.10.2024 | [Session 4: Psychoanalysis](session4.html) | Mata | |
-| 5 | 21.10.2024 | [Session 5: Behaviorism](session5.html) | Mata | |
-| 6 | 28.10.2024 | [Session 6: Gestalt psychology](session6.html) | Mata | |
-| 7 | 4.11.2024 | [Session 7: Cognitive psychology](session7.html) | Mata| |
-| 8 | 11.11.2024 | [Session 8: Psychology today](session8.html) | Tisdall | |
-| 9 | 18.11.2024 | [Session 9: Psychotherapy research](session9.html) | Tisdall | |
-|10 | 25.11.2024 | [Session 10: Psychological testing](session10.html) | Tisdall | |
-|11 | 2.12.2024 | [Session 11: Decision science](session11.html) | Tisdall | |
-|12 | 9.12.2024 | [Session 12: What kind of science is psychology?](session12.html) | Mata | |
-|13 | 16.12.2024 | [Exam](exam.html) (Bernoullianum, Grosser Hörsaal 148) |  |
+| 1 | 23.09.2024 | Session 1: Introduction | Tisdall | |
+| 2 | 30.09.2024 | Session 2: Pre-psychology | Mata | |
+| 3 | 7.10.2024 | Session 3: The birth of psychology | Mata | |
+| 4 | 14.10.2024 | Session 4: Psychoanalysis | Mata | |
+| 5 | 21.10.2024 | Session 5: Behaviorism| Mata | |
+| 6 | 28.10.2024 | Session 6: Gestalt psychology| Mata | |
+| 7 | 4.11.2024 | Session 7: Cognitive psychology | Mata| |
+| 8 | 11.11.2024 | Session 8: Psychology today| Tisdall | |
+| 9 | 18.11.2024 | Session 9: Psychotherapy research| Tisdall | |
+|10 | 25.11.2024 | Session 10: Psychological testing| Tisdall | |
+|11 | 2.12.2024 | Session 11: Decision science | Tisdall | |
+|12 | 9.12.2024 | Session 12: What kind of science is psychology?| Mata | |
+|13 | 16.12.2024 | Exam (Bernoullianum, Grosser Hörsaal 148) |  |
 :::
 
 # What is this course about?
