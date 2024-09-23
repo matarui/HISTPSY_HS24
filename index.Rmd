@@ -24,7 +24,7 @@ Sessions take place Mondays, 8.15-9.45, Chemie, Organische, Grosser Hörsaal OC.
 ::: l-body
 | # | Date     | Topic                         | Instructor | Slides |
 |---| ---------|-------------------------------|--------| --------|
-| 1 | 23.09.2024 | Session 1: Introduction | Tisdall | |
+| 1 | 23.09.2024 | Session 1: Introduction | Tisdall | [pdf](https://github.com/matarui/HISTPSY_HS24/raw/main/docs/presentations/HISTPSY_S1_Intro.pdf)|
 | 2 | 30.09.2024 | Session 2: Pre-psychology | Mata | |
 | 3 | 7.10.2024 | Session 3: The birth of psychology | Mata | |
 | 4 | 14.10.2024 | Session 4: Psychoanalysis | Mata | |
