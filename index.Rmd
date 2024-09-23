@@ -22,21 +22,21 @@ knitr::opts_chunk$set(echo = FALSE)
 Sessions take place Mondays, 8.15-9.45, Chemie, Organische, Grosser Hörsaal OC. 
 
 ::: l-body
-| # | Date     | Topic                         | Instructor | Slides |
-|---| ---------|-------------------------------|--------| --------|
-| 1 | 23.09.2024 | Session 1: Introduction | Tisdall | [pdf](https://github.com/matarui/HISTPSY_HS24/raw/main/docs/presentations/HISTPSY_S1_Intro.pdf)|
-| 2 | 30.09.2024 | Session 2: Pre-psychology | Mata | |
-| 3 | 7.10.2024 | Session 3: The birth of psychology | Mata | |
-| 4 | 14.10.2024 | Session 4: Psychoanalysis | Mata | |
-| 5 | 21.10.2024 | Session 5: Behaviorism| Mata | |
-| 6 | 28.10.2024 | Session 6: Gestalt psychology| Mata | |
-| 7 | 4.11.2024 | Session 7: Cognitive psychology | Mata| |
-| 8 | 11.11.2024 | Session 8: Psychology today| Tisdall | |
-| 9 | 18.11.2024 | Session 9: Psychotherapy research| Tisdall | |
-|10 | 25.11.2024 | Session 10: Psychological testing| Tisdall | |
-|11 | 2.12.2024 | Session 11: Decision science | Tisdall | |
-|12 | 9.12.2024 | Session 12: What kind of science is psychology?| Mata | |
-|13 | 16.12.2024 | Exam (Bernoullianum, Grosser Hörsaal 148) |  |
+| # | Date     | Topic                         | Instructor | Slides | Key reading |
+|---| ---------|-------------------------------|--------| --------| --------|
+| 1 | 23.09.2024 | Session 1: Introduction | Tisdall | [pdf](https://github.com/matarui/HISTPSY_HS24/raw/main/docs/presentations/HISTPSY_S1_Intro.pdf)| [Ball (2012)](https://oce.ovid.com/article/00120507-201202000-00005/PDF) |
+| 2 | 30.09.2024 | Session 2: Pre-psychology | Mata | | |
+| 3 | 7.10.2024 | Session 3: The birth of psychology | Mata | | |
+| 4 | 14.10.2024 | Session 4: Psychoanalysis | Mata | | |
+| 5 | 21.10.2024 | Session 5: Behaviorism| Mata | | |
+| 6 | 28.10.2024 | Session 6: Gestalt psychology| Mata | | |
+| 7 | 4.11.2024 | Session 7: Cognitive psychology | Mata | | |
+| 8 | 11.11.2024 | Session 8: Psychology today| Tisdall | | |
+| 9 | 18.11.2024 | Session 9: Psychotherapy research| Tisdall | | |
+|10 | 25.11.2024 | Session 10: Psychological testing| Tisdall | | |
+|11 | 2.12.2024 | Session 11: Decision science | Tisdall | | |
+|12 | 9.12.2024 | Session 12: What kind of science is psychology?| Mata | | |
+|13 | 16.12.2024 | Exam (Bernoullianum, Grosser Hörsaal 148) | | 
 :::
 
 # What is this course about?
