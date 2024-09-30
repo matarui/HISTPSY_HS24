@@ -22,10 +22,10 @@ knitr::opts_chunk$set(echo = FALSE)
 Sessions take place Mondays, 8.15-9.45, Chemie, Organische, Grosser Hörsaal OC. 
 
 ::: l-body
-| # | Date     | Topic                         | Instructor | Slides | Key reading |
+| # | Date     | Topic                         | Instructor | Slides | Reading |
 |---| ---------|-------------------------------|--------| --------| --------|
 | 1 | 23.09.2024 | Session 1: Introduction | Tisdall | [pdf](https://github.com/matarui/HISTPSY_HS24/raw/main/docs/presentations/HISTPSY_S1_Intro.pdf)| [Ball (2012)](https://oce.ovid.com/article/00120507-201202000-00005/PDF) |
-| 2 | 30.09.2024 | Session 2: Pre-psychology | Mata | | |
+| 2 | 30.09.2024 | Session 2: Pre-psychology | Mata | [pdf](https://github.com/matarui/HISTPSY_HS24/raw/main/docs/presentations/HISTPSY_S2_Prepsych.pdf)| [Markie & Folescu (2023)](https://plato.stanford.edu/archives/fall2017/entries/rationalism-empiricism/) |
 | 3 | 7.10.2024 | Session 3: The birth of psychology | Mata | | |
 | 4 | 14.10.2024 | Session 4: Psychoanalysis | Mata | | |
 | 5 | 21.10.2024 | Session 5: Behaviorism| Mata | | |
