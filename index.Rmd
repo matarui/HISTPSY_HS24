@@ -27,8 +27,8 @@ Sessions take place Mondays, 8.15-9.45, Chemie, Organische, Grosser Hörsaal OC.
 | 1 | 23.09.2024 | Session 1: Introduction | Tisdall | [pdf](https://github.com/matarui/HISTPSY_HS24/raw/main/docs/presentations/HISTPSY_S1_Intro.pdf)| [Ball (2012)](https://oce.ovid.com/article/00120507-201202000-00005/PDF) |
 | 2 | 30.09.2024 | Session 2: Pre-psychology | Mata | [pdf](https://github.com/matarui/HISTPSY_HS24/raw/main/docs/presentations/HISTPSY_S2_Prepsych.pdf)| [Markie & Folescu (2023)](https://plato.stanford.edu/archives/fall2017/entries/rationalism-empiricism/) |
 | 3 | 7.10.2024 | Session 3: The birth of psychology | Mata | [pdf](https://github.com/matarui/HISTPSY_HS24/raw/main/docs/presentations/HISTPSY_S3_Birth.pdf) | [Brysbaert & Rastle (2009)](https://adam.unibas.ch/goto_adam_file_1897181_download.html)|
-| 4 | 14.10.2024 | Session 4: Psychoanalysis | Mata | | |
-| 5 | 21.10.2024 | Session 5: Behaviorism| Mata | | |
+| 4 | 14.10.2024 | Session 4: Psychoanalysis | Mata | [pdf](https://github.com/matarui/HISTPSY_HS24/raw/main/docs/presentations/HISTPSY_S4_Psychoanalysis.pdf) |[Brysbaert & Rastle (2009)](https://adam.unibas.ch/goto_adam_file_1903491_download.html) |
+| 5 | 21.10.2024 | Session 5: Behaviorism | Mata | | |
 | 6 | 28.10.2024 | Session 6: Gestalt psychology| Mata | | |
 | 7 | 4.11.2024 | Session 7: Cognitive psychology | Mata | | |
 | 8 | 11.11.2024 | Session 8: Psychology today| Tisdall | | |
