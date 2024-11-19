@@ -32,8 +32,8 @@ Sessions take place Mondays, 8.15-9.45, Chemie, Organische, Grosser Hörsaal OC.
 | 6 | 28.10.2024 | Session 6: Gestalt psychology| Mata | [pdf](https://github.com/matarui/HISTPSY_HS24/raw/main/docs/presentations/HISTPSY_S6_Gestalt.pdf)  | [Brysbaert & Rastle (2009)](https://adam.unibas.ch/goto_adam_file_1897181_download.html) |
 | 7 | 4.11.2024 | Session 7: Cognitive psychology | Mata | [pdf](https://github.com/matarui/HISTPSY_HS24/raw/main/docs/presentations/HISTPSY_S7_CognitivePsych.pdf) | [Brysbaert & Rastle (2009)](https://adam.unibas.ch/goto_adam_file_1919600_download.html) |
 | 8 | 11.11.2024 | Session 8: Psychology today| Tisdall | [pdf](https://github.com/matarui/HISTPSY_HS24/raw/main/docs/presentations/HISTPSY_S8_Today.pdf) | [Spear (2007)](https://journals.sagepub.com/doi/pdf/10.1037/1089-2680.11.4.363) |
-| 9 | 18.11.2024 | Session 9: Psychotherapy research| Tisdall | | [Braakmann (2015)](https://link.springer.com/chapter/10.1007/978-3-7091-1382-0_3) |
-|10 | 25.11.2024 | Session 10: Psychological testing| Tisdall | | |
+| 9 | 18.11.2024 | Session 9: Psychotherapy research| Tisdall | [pdf](https://github.com/matarui/HISTPSY_HS24/raw/main/docs/presentations/HISTPSY_S9_PsychotherapyResearch.pdf) | [Braakmann (2015)](https://link.springer.com/chapter/10.1007/978-3-7091-1382-0_3) |
+|10 | 25.11.2024 | Session 10: Psychological testing| Tisdall | | [Wasserman (2012)](https://johndwasserman.com/index_htm_files/Wasserman%202012%20A%20History%20of%20Intelligence%20Assessment%20The%20Unfinished%20Tapestry.pdf) |
 |11 | 2.12.2024 | Session 11: Decision science | Tisdall | | |
 |12 | 9.12.2024 | Session 12: What kind of science is psychology?| Mata | | |
 |13 | 16.12.2024 | Exam (Bernoullianum, Grosser Hörsaal 148) | | 
