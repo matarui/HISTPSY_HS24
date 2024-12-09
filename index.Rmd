@@ -35,7 +35,7 @@ Sessions take place Mondays, 8.15-9.45, Chemie, Organische, Grosser Hörsaal OC.
 | 9 | 18.11.2024 | Session 9: Psychotherapy research| Tisdall | [pdf](https://github.com/matarui/HISTPSY_HS24/raw/main/docs/presentations/HISTPSY_S9_PsychotherapyResearch.pdf) | [Braakmann (2015)](https://link.springer.com/chapter/10.1007/978-3-7091-1382-0_3) |
 |10 | 25.11.2024 | Session 10: Psychological testing| Tisdall | [pdf](https://github.com/matarui/HISTPSY_HS24/raw/main/docs/presentations/HISTPSY_S10_PsychologicalTesting.pdf) | [Wasserman (2012)](https://johndwasserman.com/index_htm_files/Wasserman%202012%20A%20History%20of%20Intelligence%20Assessment%20The%20Unfinished%20Tapestry.pdf) |
 |11 | 2.12.2024 | Session 11: Decision science | Tisdall | [pdf](https://github.com/matarui/HISTPSY_HS24/raw/main/docs/presentations/HISTPSY_S11_DecisionScience.pdf) | [Newell, Lagnado, & Shanks (2022)](https://adam.unibas.ch/goto_adam_file_1940530_download.html) |
-|12 | 9.12.2024 | Session 12: What kind of science is psychology?| Mata | [pdf](https://github.com/matarui/HISTPSY_HS24/raw/main/docs/presentations/HISTPSY_S12_DecisionScience.pdf) | --- |
+|12 | 9.12.2024 | Session 12: What kind of science is psychology?| Mata | [pdf](https://github.com/matarui/HISTPSY_HS24/raw/main/docs/presentations/HISTPSY_S12_Whatkindofscience.pdf) | --- |
 |13 | 16.12.2024 | Exam (see below) | | 
 :::
 
